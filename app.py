@@ -2,7 +2,6 @@ import streamlit as st
 from PIL import Image
 import pickle
 import numpy as np
-import nltk
 import matplotlib.pyplot as plt
 import pandas as pd
 st.set_option('deprecation.showfileUploaderEncoding', False)
